@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_radius">2dp</dimen>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="padding_mid">3dp</dimen>
+    <dimen name="icon_width">30dp</dimen>
+    <dimen name="bus_image_width">70dp</dimen>
+
+    <dimen name="text_small">5sp</dimen>
+    <dimen name="text_medium">12sp</dimen>
+    <dimen name="text_large">15sp</dimen>
+    <dimen name="text_largeX">18sp</dimen>
+    <dimen name="text_largeXX">25sp</dimen>
+</resources>
